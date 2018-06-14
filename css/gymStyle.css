@@ -1,0 +1,36 @@
+body{
+    background: url("../img/GymPhoto.jpeg")
+    no-repeat center center fixed;
+    background-size: cover;
+    opacity: 1.2;
+    font-family: 'Lobster', cursive;
+    font-family: 'Tajawal', sans-serif;
+}
+
+div {
+    background-color: rgba(190, 160, 60, 0.753);
+    width: 68%;
+    margin: 100px auto;
+    text-align: center;
+    border-radius: 30px;
+}
+div p{
+    color:white;
+    font-size: 30px;
+}
+div h1{
+    margin: 0%;
+    color: white;
+    font-size: 70px;
+}
+button{
+    background:gray;
+    padding: 10px 20px;
+    color:white;
+    font-size: 2em;
+    border-radius: 10px;
+}
+i{  
+    padding: 10px;
+    font-size: 70px;
+}
